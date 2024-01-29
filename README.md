@@ -1,1 +1,2 @@
 # linuxOnIpad-Iphone
+This repositorys purpose is to act a hub for documentation on installing linux in some form on a Ipad/Iphone. This project is intended to be for my senior engineering capstone project. 
