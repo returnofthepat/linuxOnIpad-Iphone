@@ -1,0 +1,61 @@
+
+# Video script(Self explanitory)
+
+Hello, my name is Pat Quintana and my senior engineering capstone
+project is a phone that runs linux. During this video I will be
+discussing my design process, problems encountered, and more! I hope
+you enjoy
+
+## Software
+
+The goal of this project was originally to modify a version of linux
+and install it onto a iphone or ipad. The reason behind the project is
+my desire to edit and run code on a portable device. Obviously a
+computer would be faster, and is somewhat portable however it is
+limited. After a couple of hours of research I modified my goals a
+bit. I found a few videos and guides on "emulating" linux onto a
+iphone using a raspberry pi. I decided to puruse this route due to the
+time restrictions. The first time I tried this I ran into an issue
+with the SSH key I was using. For those of you who are unfamiliar with
+an SSH key its a way to have two devices securily communicate with
+each other. I tried a few different operating systems, but the SSH key
+continued to be the biggest issue I encountered. I was unable to
+resolve this issue and since it was the most critical part of getting
+the raspberry pi and iphone to communicate. I tried reconffiguring the
+SSH key a few times, but again to no avail. Despite this project not being
+succesful I believe is was still a great learning experience. I got to learn
+more about SSH keys, different operating systems, and networking. 
+
+## 3D modeling
+
+One of my favorite parts of engineering has been 3d modeling and I wanted
+to find a way to incorporate that into my project. So I thought about the
+user interaction with the project. Carrying around a raspbery pi in your
+pocket isnt the best idea for a multidue of reasons but it's also very
+incovienent and uncomfortable. So I made a model and printed a custom case
+to carry the raspberry pi and the portable charger that powers it. This was
+challenging and a bit time consuming but seeing a succesful print of the
+case restored my hope for my project. The current itteration of the case is
+a little chunky and will be need to be carried in cargo shorts, but it leaves
+me room to improve and redesign to better fit the use case in the future.
+
+
+## Conclusion
+
+I want to reiterate how much I truly appreciate this
+project. Althought it was frustrating and discouraging at times by
+perservering through it I feel accomplished despite it not working
+properly. All of the missed steps and frustraiting moments taught me
+more than if I would've just coasted through this project. Please feel
+free to ask me any questions that you may have and if you want to
+learn more please feel free to check out my github which details this
+whole project.
+
+
+## Ad
+
+Do you like iphones, do you like open source development? Hi, my name
+is Pat Quintana and for my capstone project I attempted to combine
+them both into a little something I call a Linux Phone. Using 3d modeling
+and shell commands I tried my hand at creation. If this sounds intriguing
+come and find me and Ill tell you more!
